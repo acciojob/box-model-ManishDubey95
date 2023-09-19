@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#main{
+.container{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -15,19 +15,19 @@
     text-align: center;
 }
 
-#first{
+.green{
     width: 100px;
     height: 100px;
     background-color: green;
     border-radius: 50%;
 }
-#second{
+.yellow{
     width: 100px;
     height: 100px;
     background-color: yellow;
     border-radius: 50%;
 }
-#third{
+.red{
     width: 100px;
     height: 100px;
     background-color: red;
