@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 70vw;
+    height: 40vw;
+    background-color: #d3d2d2;
+    margin: auto;
+    margin-top: 150px;
+    border: 5px solid black;
+    border-radius: 40px;
+    text-align: center;
+}
+
+#first{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#second{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#third{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
